@@ -1,5 +1,3 @@
-# TimeSeriesAutomation
-
 # **Aplicação de Análise de Séries Temporais com Dados Meteorológicos do INMET**
 
 ## **Descrição do Projeto**
@@ -45,3 +43,6 @@ Esta aplicação realiza o download de dados meteorológicos do site do INMET, p
    ```bash
    git clone https://github.com/seu-repositorio/projeto-inmet.git
    cd projeto-inmet
+2. Instale as dependências do projeto:    
+    ```bash
+   pip install -r requirements.txt
