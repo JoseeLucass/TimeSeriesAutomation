@@ -1,0 +1,9 @@
+pandas
+matplotlib
+statsmodels
+numpy
+scikit-learn
+fpdf
+selenium
+zipfile
+re
