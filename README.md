@@ -41,8 +41,12 @@ Esta aplicação realiza o download de dados meteorológicos do site do INMET, p
 ### **Instalação**
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-repositorio/projeto-inmet.git
-   cd projeto-inmet
+   git clone https://github.com/JoseeLucass/TimeSeriesAutomation.git
+   cd TimeSeriesAutomation
+
+
 2. Instale as dependências do projeto:    
     ```bash
    pip install -r requirements.txt
+
+   
