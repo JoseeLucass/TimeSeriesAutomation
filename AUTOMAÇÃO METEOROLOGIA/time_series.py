@@ -49,6 +49,7 @@ time.sleep(2)
 botao_download = driver.find_element(By.XPATH, '//*[@id="main"]/div/div/article[25]/a')
 botao_download.click()
 
+time.sleep(10)
 
 time.sleep(120)
 driver.quit()
